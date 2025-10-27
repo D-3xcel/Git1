@@ -56,7 +56,7 @@ DB_PASSWORD=
 - Open the web app and log in as admin.
 - Add or edit student details using the navigation menu.
 - Assign subjects and teachers as needed.
-- View all registered students and their details from the dashboard.
+- View all registered students and their details from the dashboard..
 
 🖼️ Screenshots or Code Snippets
 Example Blade Template Snippet:
